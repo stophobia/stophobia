@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia/?theme=dark)](https://github.com/stophobia)
+[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=dark)](https://stats.deeptrain.net/user/stophobia?theme=dark)
