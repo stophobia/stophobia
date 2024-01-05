@@ -125,6 +125,7 @@
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/qiita.svg">
 </div>
 
 **Favorite Utilities**
