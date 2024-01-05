@@ -16,19 +16,16 @@
 
 2
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&theme=vue-dark&show_icons=true&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
--->
-3
-[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true&hide_border=true&bg_color=00000000)]
 
 4
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stophobia&theme=vue-dark&hide_border=true&bg_color=00000000&repo=github-readme-stats)](https://github.com/stophobia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stophobia&theme=vue-dark&hide_border=true&bg_color=00000000&repo=template-vuepress)](https://github.com/stophobia/github-readme-stats)
 
-<!--5
+5
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia)](https://github.com/stophobia/github-readme-stats)
 
 6
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact)](https://github.com/stophobia/github-readme-stats)
--->
+
 7
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stophobia)](https://github.com/stophobia/github-readme-stats)
 
@@ -44,12 +41,12 @@
 11
 ![stophobia님의 님의 GitHub 사용량 통계 전체 커밋 포함 시](https://github-readme-stats.vercel.app/api?username=stophobia&include_all_commits=true)
 
-<!--12
+
 [![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia)](https://github.com/stophobia/github-readme-stats)
--->
+
 13
 [![stophobia님의 님의 WakaTime 카드](https://github-readme-stats.vercel.app/api/wakatime?username=stophobia)](https://github.com/stophobia/github-readme-stats)
-
+-->
 
 **Favorite Tools**
 
