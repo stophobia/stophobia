@@ -1,3 +1,4 @@
+# Stophobia
 <!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
 
 <p align="center">
@@ -63,9 +64,11 @@
 </table>
 -->
 
+[![stophobia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stophobia&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/stophobia/github-readme-activity-graph)
+
 **Favorite Tools**
 
-<div class="dislpay: inline;">
+<div style="display: block;background: #40b983;padding: 12px;">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"> 
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"> 
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ios.svg"> 
@@ -78,15 +81,15 @@
 
 **Favorite Languages**
 
-<div class="dislpay: inline;">
+<div style="display: block;background: #40b983;padding: 12px;">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nuxt-dot-js.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg">
@@ -97,7 +100,7 @@
 
 **Favorite Services**
 
-<div class="dislpay: inline;">
+<div style="display: block;background: #40b983;padding: 12px;">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleanalytics.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg">
@@ -113,7 +116,7 @@
 
 **Favorite Sites**
 
-<div class="dislpay: inline;">
+<div style="display: block;background: #40b983;padding: 12px;">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/kaggle.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg">
@@ -126,7 +129,7 @@
 
 **Favorite Utilities**
 
-<div class="dislpay: inline;">
+<div style="display: block;background: #40b983;padding: 12px;">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googledrive.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlesheets.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/googledocs.svg">
