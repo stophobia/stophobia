@@ -3,7 +3,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stophobia&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=vue-dark&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=vue-dark&hide_border=true&bg_color=00000000">
 </p>
 
 <!--<p align="center">
@@ -11,11 +11,33 @@
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=stophobia&repo=pixel-weather">
 </p>-->
 
-![Stophobia's github stats](https://github-readme-stats.vercel.app/api?username=stophobia&theme=vue-dark&show_icons=true&show_icons=true&count_private=true&hide_border=true&bg_color=transparent)
+![Stophobia's github stats](https://github-readme-stats.vercel.app/api?username=stophobia&theme=vue-dark&show_icons=true&show_icons=true&count_private=true&hide_border=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&theme=vue-dark&show_icons=true&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true)](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true)
+[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true)](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true&bg_color=00000000)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stophobia&repo=github-readme-stats)](https://github.com/stophobia/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia)](https://github.com/stophobia/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact)](https://github.com/stophobia/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stophobia)](https://github.com/stophobia/github-readme-stats)
+
+[![Harlok wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=stophobia&layout=compact)](https://github.com/stophobia/github-readme-stats)
+
+![stophobia님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=stophobia)
+
+![stophobia님의 GitHub 사용량 통계](https://github-readme-stats.vercel.app/api?username=stophobia&hide=issues&show_icons=true)
+
+![stophobia님의 님의 GitHub 사용량 통계 전체 커밋 포함 시](https://github-readme-stats.vercel.app/api?username=stophobia&include_all_commits=true)
+
+![stophobia님의 님의 GitHub 사용량 통계 언어 사용 지역 설정](https://github-readme-stats.vercel.app/api/?username=stophobia&locale=kr)
+
+[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia님의)](https://github.com/stophobia님의/github-readme-stats)
+
+[![stophobia님의 님의 WakaTime 카드](https://github-readme-stats.vercel.app/api/wakatime?username=stophobia님의)](https://github.com/stophobia님의/github-readme-stats)
 
 **Favorite Tools**
 
