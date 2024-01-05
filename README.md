@@ -1,4 +1,15 @@
-<img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!">
+<!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stophobia&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>
+
+<p align="center">
+  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=stophobia&repo=ytdx">
+  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=stophobia&repo=pixel-weather">
+</p>
 
 ![Stophobia's github stats](https://github-readme-stats.vercel.app/api?username=stophobia&theme=dark&show_icons=true&show_icons=true&count_private=true)
 
