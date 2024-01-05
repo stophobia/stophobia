@@ -21,7 +21,7 @@
 [![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true)](https://github.com/stophobia/github-readme-stats)
 
 4
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stophobia&theme=vue-dark&hide_border=true&bg_color=00000000)](https://github.com/stophobia/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stophobia&theme=vue-dark&hide_border=true&bg_color=00000000&repo=github-readme-stats)](https://github.com/stophobia/github-readme-stats)
 
 <!--5
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia)](https://github.com/stophobia/github-readme-stats)
