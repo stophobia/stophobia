@@ -1,21 +1,21 @@
 <!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stophobia&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stophobia&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=transparent&hide_border=true&background=FFFFFF00">
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=stophobia&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=stophobia&repo=pixel-weather">
-</p>
+</p>-->
 
-![Stophobia's github stats](https://github-readme-stats.vercel.app/api?username=stophobia&theme=dark&show_icons=true&show_icons=true&count_private=true)
+![Stophobia's github stats](https://github-readme-stats.vercel.app/api?username=stophobia&theme=transparent&show_icons=true&show_icons=true&count_private=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&theme=transparent&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=dark)](https://stats.deeptrain.net/user/stophobia?theme=dark)
+[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=transparent&hide_border=true)](https://stats.deeptrain.net/user/stophobia?theme=transparent&hide_border=true)
 
 **Favorite Tools**
 
@@ -64,7 +64,7 @@
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/kaggle.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
