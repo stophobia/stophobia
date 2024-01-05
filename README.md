@@ -65,69 +65,78 @@
 
 **Favorite Tools**
 
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ios.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg">
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg">
+<div class="dislpay: inline;">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"> 
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"> 
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ios.svg"> 
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg"> 
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"> 
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"> 
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg"> 
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/googlecolab.svg">
+</div>
 
 **Favorite Languages**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nuxt-dot-js.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/markdown.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/json.svg"></code>
+<div class="dislpay: inline;">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vue-dot-js.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nuxt-dot-js.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/markdown.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/json.svg">
+</div>
 
 **Favorite Services**
 
-
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleanalytics.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/googlebigquery.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googletagmanager.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yarn.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg"></code>
+<div class="dislpay: inline;">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googleanalytics.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecloud.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/googlebigquery.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googletagmanager.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yarn.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/azuredevops.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg">
+</div>
 
 **Favorite Sites**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/kaggle.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
+<div class="dislpay: inline;">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/kaggle.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/google.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/youtube.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg">
+</div>
 
 **Favorite Utilities**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googledrive.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlesheets.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/googledocs.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/googleslides.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoffice.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftword.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoffice.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftonenote.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftpowerpoint.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftonedrive.svg"></code>
+<div class="dislpay: inline;">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googledrive.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlesheets.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/googledocs.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/googleslides.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoffice.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftword.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoffice.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftonenote.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftpowerpoint.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftonedrive.svg">
+</div>
