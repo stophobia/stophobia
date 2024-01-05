@@ -48,6 +48,21 @@
 [![stophobia님의 님의 WakaTime 카드](https://github-readme-stats.vercel.app/api/wakatime?username=stophobia)](https://github.com/stophobia/github-readme-stats)
 -->
 
+<table border="0" style="background: #00000000;border: none;">
+  <tr>
+    <td colspan="2" style="background: #00000000;border: none;"><img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stophobia&theme=transparent"></td>
+  </tr>
+  <tr>
+    <td style="background: #00000000;border: none;"><img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stophobia&theme=transparent"></td>
+    <td style="background: #00000000;border: none;"><img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stophobia&theme=transparent"></td>
+  </tr>
+  <tr>
+    <td style="background: #00000000;border: none;"><img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stophobia&theme=transparent"></td>
+    <td style="background: #00000000;border: none;"><img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stophobia&theme=transparent&utcOffset=8"></td>
+  </tr>
+</table>
+
+
 **Favorite Tools**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"></code>
