@@ -3,7 +3,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stophobia&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=vue-dark&hide_border=true&bg_color=00000000">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=vue-dark&background=00000000&hide_border=true">
 </p>
 
 <!--<p align="center">
@@ -46,7 +46,7 @@
 
 13
 [![stophobia님의 님의 WakaTime 카드](https://github-readme-stats.vercel.app/api/wakatime?username=stophobia)](https://github.com/stophobia/github-readme-stats)
--->
+
 
 <table border="0" style="background: #00000000;border: none;">
   <tr>
@@ -61,18 +61,18 @@
     <td style="background: #00000000;border: none;"><img height="50%" width="auto" src ="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=stophobia&theme=transparent&utcOffset=8"></td>
   </tr>
 </table>
-
+-->
 
 **Favorite Tools**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ios.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/googlecolab.svg"></code>
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/windows.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ios.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jupyter.svg">
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/googlecolab.svg">
 
 **Favorite Languages**
 
