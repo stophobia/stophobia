@@ -12,7 +12,7 @@ void setup() {
   fill(0);
 
   strs[0][0] = "Hey there!";
-  strs[0][1] = "My name is Mason Slover.";
+  strs[0][1] = "My name is Stophobia.";
 
   strs[1][0] = "I'm a Mathematics & Computer Science Major";
   strs[1][1] = "at Fordham University at Lincoln Center in New York City.";
@@ -24,7 +24,7 @@ void setup() {
   strs[3][1] = "You can even find the Processing source code for this below!";
 
   strs[5][0] = "Feel free to reach out to say hi!";
-  strs[5][1] = "phone: (512) 739-2405 | email: masonslover@gmail.com";
+  strs[5][1] = "email: stophobia@gmail.com";
 }
 
 int i = 0;
