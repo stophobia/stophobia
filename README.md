@@ -1,9 +1,9 @@
 <!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stophobia&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=transparent&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stophobia&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=vue-dark&hide_border=true&background=FFFFFF00">
 </p>
 
 <!--<p align="center">
@@ -11,11 +11,11 @@
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=stophobia&repo=pixel-weather">
 </p>-->
 
-![Stophobia's github stats](https://github-readme-stats.vercel.app/api?username=stophobia&theme=transparent&show_icons=true&show_icons=true&count_private=true&hide_border=true)
+![Stophobia's github stats](https://github-readme-stats.vercel.app/api?username=stophobia&theme=vue-dark&show_icons=true&show_icons=true&count_private=true&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&theme=transparent&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&theme=vue-dark&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=transparent&hide_border=true)](https://stats.deeptrain.net/user/stophobia?theme=transparent&hide_border=true)
+[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true)](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true)
 
 **Favorite Tools**
 
