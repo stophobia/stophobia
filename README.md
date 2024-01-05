@@ -1,4 +1,4 @@
-# Stophobia
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia.;I+am+app+creator;I+create+with+AI+and+ML.&center=true&color=40b983)](https://git.io/typing-svg)
 <!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
 
 <p align="center">
