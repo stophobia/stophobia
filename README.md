@@ -11,9 +11,9 @@
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=stophobia&repo=pixel-weather">
 </p>-->
 
-![Stophobia's github stats](https://github-readme-stats.vercel.app/api?username=stophobia&theme=vue-dark&show_icons=true&show_icons=true&count_private=true&hide_border=true)
+![Stophobia's github stats](https://github-readme-stats.vercel.app/api?username=stophobia&theme=vue-dark&show_icons=true&show_icons=true&count_private=true&hide_border=true&bg_color=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&theme=vue-dark&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&theme=vue-dark&show_icons=true&layout=compact&hide_border=true&bg_color=#00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 [![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true)](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true)
 
