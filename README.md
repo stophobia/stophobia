@@ -45,13 +45,10 @@
 ![stophobia님의 님의 GitHub 사용량 통계 전체 커밋 포함 시](https://github-readme-stats.vercel.app/api?username=stophobia&include_all_commits=true)
 
 12
-![stophobia님의 님의 GitHub 사용량 통계 언어 사용 지역 설정](https://github-readme-stats.vercel.app/api/?username=stophobia&locale=kr)
+[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia)](https://github.com/stophobia/github-readme-stats)
 
 13
-[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia님의)](https://github.com/stophobia님의/github-readme-stats)
-
-14
-[![stophobia님의 님의 WakaTime 카드](https://github-readme-stats.vercel.app/api/wakatime?username=stophobia님의)](https://github.com/stophobia님의/github-readme-stats)
+[![stophobia님의 님의 WakaTime 카드](https://github-readme-stats.vercel.app/api/wakatime?username=stophobia)](https://github.com/stophobia/github-readme-stats)
 
 
 **Favorite Tools**
