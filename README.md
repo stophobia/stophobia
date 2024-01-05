@@ -18,7 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&theme=vue-dark&show_icons=true&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 -->
 3
-[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true)](https://github.com/stophobia/github-readme-stats)
+[![stophobia's Github Stats](https://stats.deeptrain.net/user/stophobia?theme=vue-dark&hide_border=true&hide_border=true&bg_color=00000000)]
 
 4
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stophobia&theme=vue-dark&hide_border=true&bg_color=00000000&repo=github-readme-stats)](https://github.com/stophobia/github-readme-stats)
