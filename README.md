@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia.;I+am+app+creator;I+create+with+AI+and+ML.&center=true&color=40b983)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia.;I+am+a+creator+for+web+and+app.;I+create+with+AI+and+ML.;I+always+think+about+system+and+process.&center=false&color=40b983)](https://git.io/typing-svg)
 <!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
 
 <p align="center">
@@ -65,7 +65,7 @@
 -->
 
 [![stophobia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stophobia&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/stophobia/github-readme-activity-graph)
-
+<!--
 **Favorite Tools**
 
 <div style="display: block;background: #40b983;padding: 12px;">
@@ -143,4 +143,4 @@
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftpowerpoint.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftonedrive.svg">
-</div>
+</div>-->
