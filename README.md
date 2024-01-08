@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia.;A+creator+for+web+and+app+with+AI+and+ML.;Always+think+about+system+and+process.&center=false&color=40b983)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia.;A+creator+for+web+and+app+with+AI+and+ML.;Always+think+about+system+and+process.&center=false&color=40b983)](https://github.com/stophobia)
 <!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
 
 <p align="center">
