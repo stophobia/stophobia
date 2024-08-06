@@ -1,4 +1,5 @@
 <div style="background-color: #ddd8;padding: 12px;border-radius: 4px;">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia,+a+creator+for+web+and+app.;Always+think+about+system+and+process.;Act+with+idea+and+future+forever.;&center=true&color=40b983&duration=7000&multiline=false&width=500)](https://github.com/stophobia)
 <!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
 
