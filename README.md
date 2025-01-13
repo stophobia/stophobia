@@ -1,14 +1,16 @@
 <div style="background-color: #ddd8;padding: 12px;border-radius: 4px;">
 
+<!-- 2025
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia,+a+creator+for+web+and+app.;Always+think+about+system+and+process.;Act+with+idea+and+future+forever.;&center=true&color=40b983&duration=7000&multiline=false&width=500)](https://github.com/stophobia)
-<!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
-
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stophobia&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=vue-dark&background=00000000&hide_border=true">
 </p>
+[![stophobia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stophobia&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/stophobia/github-readme-activity-graph)
+-->
 
+<!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
 <!--<p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=stophobia&repo=ytdx">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=stophobia&repo=pixel-weather">
@@ -65,8 +67,6 @@
   </tr>
 </table>
 -->
-
-[![stophobia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stophobia&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/stophobia/github-readme-activity-graph)
 <!--
 **Favorite Tools**
 
