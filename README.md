@@ -1,8 +1,7 @@
 <div style="background-color: #ddd8;padding: 12px;border-radius: 4px;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia,+a+creator+for+web+and+app.;Always+think+about+system+and+process.;Act+with+idea+and+future+forever.;&center=true&color=40b983&duration=7000&multiline=false&width=500)](https://github.com/stophobia)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia,+a+creator+for+web+and+app.;Always+think+about+system+and+process.;Act+with+idea+and+future+forever.;&center=true&color=40b983&duration=7000&multiline=false&width=500)]
 
-</div>
 <!-- 2025 -->
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stophobia&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=00000000">
