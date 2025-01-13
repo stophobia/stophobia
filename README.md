@@ -1,4 +1,4 @@
-<div style="background-color: #ddd8;padding: 12px;border-radius: 4px;">
+<div style="background-color: #0008;padding: 12px;border-radius: 4px;">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia,+a+creator+for+web+and+app.;Always+think+about+system+and+process.;Act+with+idea+and+future+forever.;&center=true&color=40b983&duration=7000&multiline=false&width=500)
 
@@ -9,7 +9,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=vue-dark&background=00000000&hide_border=true">
 </p>
 
-![stophobia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stophobia&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/stophobia/github-readme-activity-graph)
+![stophobia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stophobia&theme=vue&bg_color=00000000&hide_border=true)
 
 
 <!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
