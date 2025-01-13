@@ -9,7 +9,7 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=vue-dark&background=00000000&hide_border=true">
 </p>
-[![stophobia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stophobia&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/stophobia/github-readme-activity-graph)
+[![stophobia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stophobia&theme=vue&bg_color=00000000&hide_border=true)](https://github.com/stophobia/github-readme-activity-graph)]
 
 
 <!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
