@@ -1,8 +1,3 @@
-<style> 
-.contents { 
-  background-color: #0008; /* Light gray background color */ 
-} 
-</style>
 <div class="contents" style="padding: 12px;border-radius: 4px;">
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia,+a+creator+for+web+and+app.;Always+think+about+system+and+process.;Act+with+idea+and+future+forever.;&center=true&color=40b983&duration=7000&multiline=false&width=500) -->
