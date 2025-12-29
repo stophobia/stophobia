@@ -152,8 +152,8 @@
 <!-- Copy-paste in your Readme.md file -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=9919&image_size=auto&color_scheme=dark" width="771" height="auto">
-  <img alt="Dashboard stats of @nuhmanpk" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=9919&image_size=auto&color_scheme=light" width="771" height="auto">
+  <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=5157942&image_size=auto&color_scheme=dark" width="100%" height="auto">
+  <img alt="Dashboard stats of @nuhmanpk" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=5157942&image_size=auto&color_scheme=light" width="100%" height="auto">
 </picture>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
