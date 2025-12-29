@@ -156,6 +156,6 @@
   <img alt="Dashboard stats of @stophobia" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=5157942&image_size=auto&color_scheme=light" width="auto" height="auto">
 </picture>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- Made with https://api.github.com/users/stophobia -->
 
 </div>
