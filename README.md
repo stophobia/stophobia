@@ -3,13 +3,13 @@
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Stophobia,+a+creator+for+web+and+app.;Always+think+about+system+and+process.;Act+with+idea+and+future+forever.;&center=true&color=40b983&duration=7000&multiline=false&width=500) -->
 
 <!-- 2025 -->
-<p align="center">
+<!-- <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=stophobia&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=stophobia&layout=compact&hide_border=true&theme=vue-dark&bg_color=00000000&langs_count=6">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=stophobia&theme=vue-dark&background=00000000&hide_border=true">
-</p>
+</p> -->
 
-![stophobia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stophobia&theme=vue&bg_color=00000000&hide_border=true)
+<!-- ![stophobia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=stophobia&theme=vue&bg_color=00000000&hide_border=true) -->
 
 
 <!-- <img src="https://github.com/stophobia/stophobia/blob/master/output.gif" alt="Here is a little bit about me!"> -->
@@ -148,5 +148,16 @@
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftpowerpoint.svg">
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftonedrive.svg">
 </div>-->
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=62880706" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=62880706&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @nuhmanpk" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=62880706&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 </div>
